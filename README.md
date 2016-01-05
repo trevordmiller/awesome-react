@@ -1010,6 +1010,8 @@ A collection of awesome things regarding React ecosystem.
 * [Lin Clark - Making small modules actually work with webpack and npm](https://www.youtube.com/watch?v=p3Wi3xBQdAM)
 
 #### Video Tutorials
+
+* [React Testing Cookbook — 13 short video lessons showing how to write tests](https://egghead.io/series/react-testing-cookbook)
 * [learnreact.com — 3ish minute videos on React.js](http://learnreact.com/)
 * [Learn ReactJS (make a Pokedex!) - part 1](https://www.youtube.com/watch?v=A9xmIxYBGf4)
 * [Learn ReactJS (make a Pokedex!) - part 2](https://www.youtube.com/watch?v=lNqnZ58YGE0)
